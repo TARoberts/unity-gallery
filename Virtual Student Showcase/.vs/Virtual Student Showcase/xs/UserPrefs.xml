@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A1AB1039-C215-D898-C4B1-0CD4CF8C6475}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Proximity.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Proximity.cs" Line="44" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Virtual Student Showcase" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Proximity.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0ed71486-c215-4833-a76c-84b50b41a4b9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
